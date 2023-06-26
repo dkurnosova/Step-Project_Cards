@@ -1,0 +1,29 @@
+{
+  "name": "step-project_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkurnosova/step-project_cards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkurnosova/step-project_cards/issues"
+  },
+  "homepage": "https://github.com/dkurnosova/step-project_cards#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "type": "module",
+  "engines": {
+  "node": "16.x"
+}
+}
